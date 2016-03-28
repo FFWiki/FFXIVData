@@ -1,0 +1,293 @@
+Index,Name,1 [0x0][0x4],2 [0x19][0x8],3 [0x5][0xc]
+0,"","",false,0
+1,"The Insatiable","The Insatiable",false,1
+2,"The True","The True",false,2
+3,"Coeurlfist","Coeurlfist",true,3
+4,"Ironeater","Ironeater",true,4
+5,"Of the Vengeful Lance","Of the Vengeful Lance",false,5
+6,"The Godsbow","The Godsbow",false,6
+7,"The White","The White",false,7
+8,"Starcaller","Starcaller",true,8
+9,"The Exterminator","The Exterminator",false,50
+10,"Notorious Monster Hunter","Notorious Monster Hunter",true,60
+11,"Honest Gillionaire","Honest Gillionaire",true,80
+12,"Ruthless Gillionaire","Ruthless Gillionaire",true,80
+13,"Warmonger","Warmonger",true,100
+14,"Archmage","Archmage",true,101
+15,"Builder of the Realm","Builder of the Realm",false,102
+16,"Provider of the Realm","Provider of the Realm",false,103
+17,"Of the Golden Saw","Of the Golden Saw",false,150
+18,"Of the Golden Anvil","Of the Golden Anvil",false,151
+19,"Of the Golden Hammer","Of the Golden Hammer",false,152
+20,"Of the Golden Leaf","Of the Golden Leaf",false,153
+21,"Of the Golden Hide","Of the Golden Hide",false,154
+22,"Of the Golden Needle","Of the Golden Needle",false,155
+23,"Of the Golden Lead","Of the Golden Lead",false,156
+24,"Of the Golden Ladle","Of the Golden Ladle",false,157
+25,"Meadowbreaker","Meadowbreaker",true,200
+26,"Forestbreaker","Forestbreaker",true,201
+27,"Desertbreaker","Desertbreaker",true,202
+28,"Of the Meadow Mines","Of the Meadow Mines",false,203
+29,"Of the Forest Mines","Of the Forest Mines",false,204
+30,"Of the Desert Mines","Of the Desert Mines",false,205
+31,"Meadowreaper","Meadowreaper",true,206
+32,"Forestreaper","Forestreaper",true,207
+33,"Desertreaper","Desertreaper",true,208
+34,"Of the Meadow Grasses","Of the Meadow Grasses",false,209
+35,"Of the Forest Grasses","Of the Forest Grasses",false,210
+36,"Of the Desert Grasses","Of the Desert Grasses",false,211
+37,"Meadowcaster","Meadowcaster",true,212
+38,"Forestcaster","Forestcaster",true,213
+39,"Desertcaster","Desertcaster",true,214
+40,"Of the Meadow Pools","Of the Meadow Pools",false,215
+41,"Of the Forest Pools","Of the Forest Pools",false,216
+42,"Of the Desert Pools","Of the Desert Pools",false,217
+43,"Carrier of the Cauldron","Carrier of the Cauldron",false,250
+44,"The Assimilator","The Assimilator",false,251
+45,"Seeker of Blood","Seeker of Blood",false,300
+46,"Seeker of Truth","Seeker of Truth",false,301
+47,"Seeker of Skill","Seeker of Skill",false,302
+48,"Seeker of Bounty","Seeker of Bounty",false,303
+49,"Sidestepper","Sidestepper",true,350
+50,"Lord Protector","Lady Protector",true,351
+51,"Lord Creator","Lady Creator",true,352
+52,"Peacemaker","Peacemaker",true,353
+53,"The Last Resort","The Last Resort",false,354
+54,"The Sword of La Noscea","The Sword of La Noscea",false,355
+55,"The Sword of the Shroud","The Sword of the Shroud",false,356
+56,"The Sword of Thanalan","The Sword of Thanalan",false,357
+57,"The Sword of Eorzea","The Sword of Eorzea",false,358
+58,"The Shield of La Noscea","The Shield of La Noscea",false,359
+59,"The Shield of the Shroud","The Shield of the Shroud",false,360
+60,"The Shield of Thanalan","The Shield of Thanalan",false,361
+61,"The Shield of Eorzea","The Shield of Eorzea",false,362
+62,"Brother of the Broken Blade","Sister of the Broken Blade",true,363
+63,"The Warden's Wall","The Warden's Wall",false,364
+64,"Bearer of the Horn","Bearer of the Horn",true,365
+65,"The Uncommitted","The Uncommitted",false,366
+66,"The Professional","The Professional",false,400
+67,"Inquisitor","Inquisitor",true,450
+68,"Divine Crusher","Divine Crusher",true,451
+69,"Stonesplitter","Stonesplitter",true,452
+70,"A Kobold's Worst Nightmare","A Kobold's Worst Nightmare",false,453
+71,"An Ixal's Worst Nightmare","An Ixal's Worst Nightmare",false,454
+72,"An Amalj'aa's Worst Nightmare","An Amalj'aa's Worst Nightmare",false,455
+73,"The Guardian of Aleport","The Guardian of Aleport",false,456
+74,"The Guardian of Hyrstmill","The Guardian of Hyrstmill",false,457
+75,"The Guardian of the Golden Bazaar","The Guardian of the Golden Bazaar",false,458
+76,"The Wind of Aleport","The Wind of Aleport",false,459
+77,"The Wind of Hyrstmill","The Wind of Hyrstmill",false,460
+78,"The Wind of the Golden Bazaar","The Wind of the Golden Bazaar",false,461
+79,"The Hand of Aleport","The Hand of Aleport",false,462
+80,"The Hand of Hyrstmill","The Hand of Hyrstmill",false,463
+81,"The Hand of the Golden Bazaar","The Hand of the Golden Bazaar",false,464
+82,"Wild Thing","Wild Thing",true,500
+83,"The Winter Wyrm","The Winter Wyrm",false,501
+84,"Messenger of Love","Messenger of Love",true,502
+85,"Royal Seneschal","Princess for a Day",true,503
+86,"Dreamseeker","Dreamseeker",true,504
+87,"Cascadier","Cascadier",true,505
+88,"Crystal Bearer","Crystal Bearer",true,506
+89,"Stormlord","Stormlady",true,550
+90,"Serpentlord","Serpentlady",true,551
+91,"Flamelord","Flamelady",true,552
+92,"The Stormsworn","The Stormsworn",false,553
+93,"The Serpentsworn","The Serpentsworn",false,554
+94,"The Flamesworn","The Flamesworn",false,555
+95,"Stormcarrier","Stormcarrier",true,556
+96,"Serpentcarrier","Serpentcarrier",true,557
+97,"Flamecarrier","Flamecarrier",true,558
+98,"Stormbringer","Stormbringer",true,559
+99,"Serpentbringer","Serpentbringer",true,560
+100,"Flamebringer","Flamebringer",true,561
+101,"Featherfoot","Featherfoot",true,600
+102,"A Bo's Best Friend","A Bo's Best Friend",true,601
+103,"Lightning","Lightning",true,602
+104,"Cavalier","Cavalier",true,603
+105,"The Wanderer's Shadow","The Wanderer's Shadow",false,604
+106,"Green Eyes","Green Eyes",false,605
+107,"The Strategist","The Strategist",false,606
+108,"The Reaper","The Reaper",false,607
+109,"Dungeon Master","Dungeon Master",true,608
+110,"Tempter of Fate","Temptress of Fate",false,609
+111,"Elite Cascadier","Elite Cascadier",true,610
+112,"Storm Puppy","Storm Puppy",true,650
+113,"Storm Howler","Storm Howler",true,651
+114,"Storm Growler","Storm Growler",true,652
+115,"Storm Hound","Storm Hound",true,653
+116,"Storm Stalker","Storm Stalker",true,654
+117,"Storm Chaser","Storm Chaser",true,655
+118,"","",false,0
+119,"","",false,0
+120,"","",false,0
+121,"","",false,0
+122,"Serpent Puppy","Serpent Puppy",true,660
+123,"Serpent Howler","Serpent Howler",true,661
+124,"Serpent Growler","Serpent Growler",true,662
+125,"Serpent Hound","Serpent Hound",true,663
+126,"Serpent Stalker","Serpent Stalker",true,664
+127,"Serpent Chaser","Serpent Chaser",true,665
+128,"","",false,0
+129,"","",false,0
+130,"","",false,0
+131,"","",false,0
+132,"Flame Puppy","Flame Puppy",true,670
+133,"Flame Howler","Flame Howler",true,671
+134,"Flame Growler","Flame Growler",true,672
+135,"Flame Hound","Flame Hound",true,673
+136,"Flame Stalker","Flame Stalker",true,674
+137,"Flame Chaser","Flame Chaser",true,675
+138,"","",false,0
+139,"","",false,0
+140,"","",false,0
+141,"","",false,0
+142,"The Ravenous Wolf","The Ravenous Wolf",false,700
+143,"The Alpha Wolf","The Alpha Wolf",false,701
+144,"The Heart of the Party","The Heart of the Party",false,750
+145,"Brother of Ash","Sister of Ash",true,751
+146,"Sylph-Friend","Sylph-Friend",true,752
+147,"Treasure Hunter","Treasure Hunter",true,753
+148,"789th Order Champion","789th Order Champion",true,754
+149,"Novv Clutchmate","Novv Clutchmate",true,755
+150,"The Ambitious Angler","The Ambitious Angler",false,756
+151,"The Meat Shield","The Meat Shield",false,757
+152,"The Meat Axe","The Meat Axe",false,758
+153,"Of the Stalwart Shield","Of the Stalwart Shield",false,759
+154,"Of the Stalwart Axe","Of the Stalwart Axe",false,760
+155,"Frontline Forerunner","Frontline Forerunner",true,761
+156,"Storm Forerunner","Storm Forerunner",true,762
+157,"Flame Forerunner","Flame Forerunner",true,764
+158,"Serpent Forerunner","Serpent Forerunner",true,763
+159,"Drone Sniper","Drone Sniper",true,765
+160,"Heliodrome Hero","Heliodrome Hero",true,766
+161,"Hunter for Hire","Hunter for Hire",true,800
+162,"Seeker of Fortune","Seeker of Fortune",true,801
+163,"Seasoned Tracker","Seasoned Tracker",true,802
+164,"Bounty Hunter","Bounty Hunter",true,803
+165,"Soldier of Fortune","Soldier of Fortune",true,804
+166,"Captain of the Hunt","Captain of the Hunt",false,805
+167,"Rafflesia Reaper","Rafflesia Reaper",true,850
+168,"Melusine Mauler","Melusine Mauler",true,851
+169,"The Avatar","The Avatar",false,852
+170,"Domitor","Domitrix",false,853
+171,"The Disassembler","The Disassembler",true,900
+172,"","",false,0
+173,"Bearer of the Coffer","Bearer of the Coffer",true,902
+174,"Defender of Eorzea","Defender of Eorzea",false,950
+175,"The Postman","The Postwoman",false,951
+176,"Ehcatl Blackguard","Ehcatl Blackguard",true,952
+177,"The Negotiator","The Negotiator",false,953
+178,"The Final Witness","The Final Witness",false,954
+179,"Of Dragons Deep","Of Dragons Deep",false,955
+180,"Master Caster","Master Caster",true,956
+181,"","",false,0
+182,"The Shadow","The Shadow",false,958
+183,"Icebreaker","Icebreaker",true,959
+184,"Of the Silver Lining","Of the Silver Lining",false,960
+185,"Gentleman","Gentlewoman",true,961
+186,"Cupid","Cupid",true,962
+187,"Tamer of Steeds","Tamer of Steeds",false,963
+188,"The Unsevered","The Unsevered",false,964
+189,"Slaughterhouse","Slaughterhouse",true,965
+190,"The Hand of Mercy","The Hand of Mercy",false,966
+191,"The Light in Hand","The Light in Hand",false,967
+192,"The Light of the Land","The Light of the Land",false,968
+193,"Z","Z",false,969
+194,"Golemancer","Golemancer",true,970
+195,"Gambler","Gambler",true,1000
+196,"High Roller","High Roller",true,1001
+197,"Chocobo Breeder","Chocobo Breeder",true,1002
+198,"Chocobo Trainer","Chocobo Trainer",true,1003
+199,"Bug Boy","Bug Girl",true,1004
+200,"Senior Jockey","Senior Jockey",true,1005
+201,"Veteran Jockey","Veteran Jockey",true,1006
+202,"The First Across","The First Across",false,1007
+203,"Deck Holder","Deck Holder",true,1008
+204,"Deck Hoarder","Deck Hoarder",true,1009
+205,"The Trinity","The Trinity",false,1010
+206,"Duelist","Duelist",true,1011
+207,"Keymaster","Gatekeeper",true,1012
+208,"The Fungah","The Fungah",false,1013
+209,"Moneybags","Moneybags",true,1014
+210,"Raiser of Mountains","Raiser of Mountains",false,1015
+211,"Bearer of the Torch","Bearer of the Torch",false,1050
+212,"Postmaster","Postmaster",true,1051
+213,"Half-boiled Hero","Half-boiled Heroine",true,1052
+214,"Unbeliever","Unbeliever",true,1053
+215,"The Redeemed","The Redeemed",false,1054
+216,"Nidhogg Slayer","Nidhogg Slayer",true,1055
+217,"Of the Silver Fuller","Of the Silver Fuller",false,1056
+218,"Imperial Nuisance","Imperial Nuisance",false,1057
+219,"Under-archon","Under-archon",true,1058
+220,"The End of Ascalon","The End of Ascalon",true,1059
+221,"The Pacifier","The Pacifier",false,1060
+222,"The Oathkeeper","The Oathkeeper",false,1100
+223,"Of the 14th Chakra","Of the 14th Chakra",false,1101
+224,"The Mythril Heart","The Mythril Heart",false,1102
+225,"The Azure Dragoon","The Azure Dragoon",false,1103
+226,"Skysinger","Skysinger",false,1104
+227,"Pure White","Pure White",true,1105
+228,"Annihilator","Annihilator",true,1106
+229,"Dreadspawn","Dreadspawn",false,1107
+230,"Nymian Marine","Nymian Marine",true,1108
+231,"The Darkest Shadow","The Darkest Shadow",false,1109
+232,"Blackblood","Blackblood",false,1110
+233,"Liberator","Liberator",true,1111
+234,"Stargazer","Stargazer",true,1112
+235,"Illuminati Quencher","Illuminati Quencher",true,1150
+236,"Finder of False Gods","Finder of False Gods",false,1151
+237,"Lighter than Air","Lighter than Air",true,1152
+238,"","",false,1153
+239,"Grandmaster of War","Grandmaster of War",true,1200
+240,"Grandmaster of Magic","Grandmaster of Magic",true,1201
+241,"Dark Driver","Dark Driver",true,1202
+242,"Of the Stalwart Sword","Of the Stalwart Sword",false,1203
+243,"Keeper of Knowledge","Keeper of Knowledge",true,1204
+244,"Swallowtail","Swallowtail",true,1205
+245,"Storm Intelligencer","Storm Intelligencer",true,1206
+246,"Serpent Intelligencer","Serpent Intelligencer",true,1207
+247,"Flame Intelligencer","Flame Intelligencer",true,1208
+248,"Grandmaster of the Hand","Grandmaster of the Hand",true,1209
+249,"Grandmaster of the Land","Grandmaster of the Land",true,1210
+250,"Molder of Masterpieces","Molder of Masterpieces",true,1211
+251,"Amasser of Masterpieces","Amasser of Masterpieces",true,1212
+252,"Business Associate","Business Associate",true,1213
+253,"Master Carpenter","Master Carpenter",true,1214
+254,"Master Blacksmith","Master Blacksmith",true,1215
+255,"Master Armorer","Master Armorer",true,1216
+256,"Master Goldsmith","Master Goldsmith",true,1217
+257,"Master Leatherworker","Master Leatherworker",true,1218
+258,"Master Weaver","Master Weaver",true,1219
+259,"Master Alchemist","Master Alchemist",true,1220
+260,"Master Culinarian","Master Culinarian",true,1221
+261,"Master Miner","Master Miner",true,1222
+262,"Master Botanist","Master Botanist",true,1223
+263,"Master Fisher","Master Fisher",true,1224
+264,"The Fortunate","The Fortunate",false,1225
+265,"Good Samaritan","Good Samaritan",true,1226
+266,"Minion Collector","Minion Collector",true,1227
+267,"Minion Master","Minion Master",true,1228
+268,"Mammeteer","Mammeteer",true,1229
+269,"Prince of Verminion","Princess of Verminion",false,1230
+270,"Lord of Verminion","Lady of Verminion",false,1231
+271,"House Fortemps Knight","House Fortemps Knight",false,1232
+272,"Sky Pirate","Sky Pirate",true,1233
+273,"The Noumenon","The Noumenon",false,1234
+274,"Sundrop Dancer","Sundrop Dancer",true,1235
+275,"Myth Breaker","Myth Breaker",true,1236
+276,"Veteran Explorer","Veteran Explorer",true,1237
+277,"Special Advisor","Special Advisor",true,1238
+278,"Notorious Monster Slayer","Notorious Monster Slayer",true,1239
+279,"Hungry Wolf","Hungry Wolf",true,1240
+280,"The Devourer","The Devourer",false,1241
+281,"The Unmoving","The Unmoving",false,1242
+282,"The Unrelenting","The Unrelenting",false,1243
+283,"The Unseen","The Unseen",false,1244
+284,"The Unleashed","The Unleashed",false,1245
+285,"The Undamaged","The Undamaged",false,1246
+286,"Mentor","Mentor",true,1247
+287,"Mentor of Mentors","Mentor of Mentors",true,1248
+288,"Carrier of the Kettle","Carrier of the Kettle",true,1249
+289,"The Gear of Change","The Gear of Change",false,1250
+290,"Allthoughts","Allthoughts",false,1251
+291,"The Newmind","The Newmind",false,1252
